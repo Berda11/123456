@@ -1,0 +1,197 @@
+body{
+    margin: 0 auto;
+    background-color: #aaa6ad;
+    /* opacity: 0.8; */
+}
+
+header{
+    background-color: #743eb6;
+    opacity: 0.8;
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRMoV3vtmYmnMM9ZNjDM7MZqofFLtmw1VnA4ldgR88z3oiqVd72NztcY59aArDi2OpIbeuLHbryIMCiO0U); */
+    /* width: 100%;/ */
+    height: 100px;
+    /* background-size: cover; */
+    /* background-attachment: initial; */
+    /* background-position-y: -700px; */
+    /* object-fit:fill; */
+    /* opacity: 0.3; */
+    background-position: center;
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+    /* margin: ; */
+}
+
+.header_left{
+    /* background-color:  #572b8c; */
+    height: 100px;
+    width: 70%;
+    /* text-align: center; *0/
+    /* display: flex; */
+    margin: 0 auto;
+    /* padding: 0 auto; */
+    display: flex;
+    align-items: center;
+    padding-left: 15%;
+    /* padding-right: 30% */
+    /* padding-right: 15%; */
+  
+}
+
+
+.footer_in {
+    background-color:rgb(243, 211, 172);
+    font-size: 14px;
+    height: 100px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
+
+.header_left a {    
+    text-decoration: none;    
+    /* font-size: 20px; */
+    /* display: flex;   */
+    /* padding-left: 10%; */
+    font-family:sans-serif;
+    color: aliceblue;
+    margin-left: 25px ;
+    align-items: 100px auto;
+    margin-right: 50px;
+}
+
+
+.header_right{
+    /* background-color:  #4a2775; */
+    height: 100px;
+    width: 10%;
+    display: flex;
+    margin: 50 auto;
+    align-items: center;
+    /* padding-left: 200px; */
+    padding-right: 15%;
+    
+
+}
+
+/* .header_right img {
+    margin: 0px auto;
+} */
+
+main{
+    background-color:#743eb6;
+    font-size: 14px;
+    height:1000px;
+    width: 100%;
+    padding-left: 0px;
+    /* background-image: url(https://thypix.com/wp-content/uploads/2021/01/tulip-photo-156-700x875.jpg); */
+    /* background-image: url(https://gamerwall.pro/uploads/posts/2022-03/1647901267_1-gamerwall-pro-p-tyulpani-fon-krasivie-2.jpg); */
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRMoV3vtmYmnMM9ZNjDM7MZqofFLtmw1VnA4ldgR88z3oiqVd72NztcY59aArDi2OpIbeuLHbryIMCiO0U); */
+    /* background-size: cover; */
+    /* background-position-y:80px;, */
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+
+    scale: 1;
+}
+
+.Between {
+    width: 100%;
+    height: 40px;
+    background-color: #743eb6;
+    border-radius: 25px;
+}
+
+.osnova {
+    padding: 50px;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 100%;
+    background-color: #3b5499;
+    background-image: url(https://gamerwall.pro/uploads/posts/2022-03/1647901267_1-gamerwall-pro-p-tyulpani-fon-krasivie-2.jpg);
+
+    border-radius: 25px;
+    display: flex;
+    
+    
+
+}
+/* .header_in_osnova{
+    background-color: #294285;
+    width: 100%;
+    height: 40px;
+    border-radius: 25px;
+    text-align: center;
+    
+} */
+
+
+/* .main_in_osnova{
+    background-color: #8a6309;
+    width: 100%;
+    height: 600px;
+
+} */
+
+.photo_gallery_sada{
+    margin-left: 5%;
+    /* margin-right: 10%; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+} 
+
+.photo_gallery_raboty{
+    /* margin-block-start: ; */
+    margin-left: 100px;
+    margin-right: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+.photo_gallery_flowers{
+    margin-right: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.header_sada {
+    margin: auto;
+    padding-left: 100px;
+    /* padding:100px auto */
+
+}
+.main_sada {
+    margin: auto;
+    
+}
+.header_raboty{
+    margin: auto;
+}
+.footer_in {
+    background-color:rgb(109, 97, 82);
+    font-size: 14px;
+    height: 100px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
+/* footer a{
+    margin: auto;
+    align-items: 100px auto;
+} */
+footer{
+    height: 100px;
+    background-color: aqua;
+    /* margin: auto; */
+    display: flex;
+}
+
+footer img {
+    margin: auto;
+    /* margin-left: 500px; */
+}
